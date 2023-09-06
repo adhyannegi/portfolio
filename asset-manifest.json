@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4fed815a.css",
+    "main.js": "/portfolio/static/js/main.8bdd8dd3.js",
+    "static/media/python.png": "/portfolio/static/media/python.82efb64f8698a267f8bf.png",
+    "static/media/spartan_logo.png": "/portfolio/static/media/spartan_logo.f1389bf0d70e0897110e.png",
+    "static/media/mongo.png": "/portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/flutter.png": "/portfolio/static/media/flutter.eff19418612fb8d66d48.png",
+    "static/media/c++.png": "/portfolio/static/media/c++.d7a72328ffe7d955a33e.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.4fed815a.css.map": "/portfolio/static/css/main.4fed815a.css.map",
+    "main.8bdd8dd3.js.map": "/portfolio/static/js/main.8bdd8dd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fed815a.css",
+    "static/js/main.8bdd8dd3.js"
+  ]
+}
